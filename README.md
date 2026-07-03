@@ -145,15 +145,15 @@ Improved decision-making and crop productivity through automated disease diagnos
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgirigoudanavar-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Monisha6360&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgirigoudanavar-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monisha6360&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulgirigoudanavar-crypto&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Monisha6360&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ Improved decision-making and crop productivity through automated disease diagnos
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulgirigoudanavar-crypto&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monisha6360 S&theme=tokyo-night" />
 </p>
 
 ---
@@ -170,4 +170,4 @@ Improved decision-making and crop productivity through automated disease diagnos
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rahulgirigoudanavar-crypto&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Monisha6360 &limit=5&theme=dark&combine_all_yearly_contributions=true)
