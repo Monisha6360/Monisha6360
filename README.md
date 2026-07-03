@@ -1,7 +1,7 @@
 # Hi 👋, I'm Monisha S
 
 <h3 align="center">
-🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast | 
+🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast 
 </h3>
 
 <p align="center">
