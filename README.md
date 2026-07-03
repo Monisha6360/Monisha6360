@@ -1,7 +1,7 @@
 # Hi 👋, I'm Monisha S
 
 <h3 align="center">
-🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast | 🤖 AI Builder
+🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast | 
 </h3>
 
 <p align="center">
@@ -107,10 +107,6 @@ Improved decision-making and crop productivity through automated disease diagnos
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -158,9 +154,10 @@ Improved decision-making and crop productivity through automated disease diagnos
 ---
 
 ### ✍️ Random Dev Quote
-<h3 align="center">
-  Learning, Building, and Growing One Commit at a Time.
-</h3>
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Monisha6360 &limit=5&theme=dark&combine_all_yearly_contributions=true)
+> 💡 "Every expert was once a beginner. Every pro was once an amateur."
+
+</div>
+
+
