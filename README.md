@@ -152,13 +152,15 @@ Improved decision-making and crop productivity through automated disease diagnos
 # 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulgirigoudanavar-crypto&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monisha6360&theme=tokyo-night" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+  Learning, Building, and Growing One Commit at a Time.
+</h3>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Monisha6360 &limit=5&theme=dark&combine_all_yearly_contributions=true)
