@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulgirigoudanavar&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Monisha6360&label=Profile+Views&color=0e75b6&style=flat"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Developer-brightgreen"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack-blue"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-DevOps-orange"/>
@@ -27,8 +27,6 @@
 
 ☁️ Learning Cloud & DevOps with AWS, Linux, Git, GitHub, Docker 
 
-🚀 Currently building **CareerGPT**, an AI-powered Career Assistant for personalized job recommendations
-
 📚 Continuously improving my skills in System Design, Data Structures & Algorithms, Microservices and Cloud Technologies
 
 💬 Ask me about Java, Spring Boot, JavaScript, React, SQL, Git, GitHub, AWS and DevOps
@@ -42,7 +40,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monisha-s-b88909385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgirigoudanavar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monisha-s-b88909385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monisha.s6360@gmail.com) 
 
 ---
 ## 🚀 Featured Projects
@@ -51,13 +49,8 @@
 
 **Java | Spring Boot | Hibernate | MySQL | HTML | CSS | JavaScript**
 
-Developed a full-stack E-Commerce web application using Spring Boot, Java, and MySQL.
-Implemented Customer, Merchant, and Admin modules with role-based access.
-Designed and developed RESTful APIs for product, order, and user management.
-Implemented CRUD operations for products, categories, and customer data.
-Integrated Spring Data JPA and Hibernate for database management.
-Developed secure user authentication and authorization using Spring Security.
-Implemented shopping cart, order placement, and order tracking functionalities.
+Developed a full-stack E-Commerce web application using Java, Spring Boot, MySQL, Hibernate, and RESTful APIs. Implemented Customer, Merchant, and Admin modules with features such as product management, user authentication, shopping cart, order processing, inventory management, and order tracking. Designed a scalable backend architecture using Spring Data JPA and integrated database operations to ensure efficient data management and a seamless user experience.
+
 ---
 
 ### 🍔 Early Crop Disease Detection
@@ -128,10 +121,8 @@ Improved decision-making and crop productivity through automated disease diagnos
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 <!-- Snake Game Repo View -->
