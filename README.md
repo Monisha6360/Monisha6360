@@ -121,7 +121,7 @@ Improved decision-making and crop productivity through automated disease diagnos
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<!-- Snake Game Repo View -->
+<!-- Animated coding gif -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
