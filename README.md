@@ -124,7 +124,7 @@ Improved decision-making and crop productivity through automated disease diagnos
 <!-- Snake Game Repo View -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
 ---
