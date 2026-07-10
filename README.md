@@ -1,3 +1,18 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Monisha%20S&fontSize=40&fontAlign=50&fontAlignY=35&color=gradient"/>
+</p>
+
+# Hi 👋, I'm Monisha S
+
+<h3 align="center">
+🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F72D&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;React.js+%7C+JavaScript+%7C+MySQL" />
+</p>
+
+
 # Hi 👋, I'm Monisha S
 
 <h3 align="center">
@@ -53,7 +68,7 @@ Developed a full-stack E-Commerce web application using Java, Spring Boot, MySQL
 
 ---
 
-### 🍔 Early Crop Disease Detection
+### 🌱 Early Crop Disease Detection
 
 **Python | TensorFlow | Keras | Numpy |  | Machine Learing**
 
@@ -132,11 +147,7 @@ Improved decision-making and crop productivity through automated disease diagnos
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monisha6360&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monisha6360&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Monisha6360&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
