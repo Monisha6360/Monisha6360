@@ -5,17 +5,6 @@
 # Hi 👋, I'm Monisha S
 
 <h3 align="center">
-🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F72D&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;React.js+%7C+JavaScript+%7C+MySQL" />
-</p>
-
-
-# Hi 👋, I'm Monisha S
-
-<h3 align="center">
 🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast 
 </h3>
 
@@ -149,11 +138,6 @@ Improved decision-making and crop productivity through automated disease diagnos
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Monisha6360&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Monisha6360&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 # 📊 Contribution Graph
